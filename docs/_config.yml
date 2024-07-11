@@ -31,8 +31,10 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+theme: jekyll-theme-wind
 plugins:
   - jekyll-feed
+  - wind-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
